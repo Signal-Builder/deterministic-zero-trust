@@ -1,0 +1,35 @@
+{
+  "title": "Deterministic Zero-Trust: Trust as a Computable, Decaying, Revocable, Cryptographically-Bounded Physical Quantity",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "We introduce Deterministic Zero-Trust (DZT), a security architecture where trust is not a confidence score but a physical quantity governed by conservation laws, mandatory decay, cryptographic scoping, and cascading invalidation. We prove seven formal security guarantees unachievable by probabilistic systems, demonstrated across 15 implemented security primitives.",
+  "creators": [
+    {
+      "name": "Taylor, David W.",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "zero-trust architecture",
+    "deterministic security",
+    "tau conservation",
+    "KMS token scoping",
+    "Merkle provenance",
+    "cascading invalidation",
+    "execution firewalls",
+    "formal verification"
+  ],
+  "license": "CC-BY-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21841526",
+      "relation": "isPartOf",
+      "scheme": "doi"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ]
+}
